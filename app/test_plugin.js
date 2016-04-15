@@ -3,6 +3,6 @@ IR.plugin({
 
      },
      "viewWillAppear" : function (animated) {
-        // test
+        // test 2
      }
 });
