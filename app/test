@@ -4,7 +4,7 @@
     "title": "Title",
     "navigationController": {
       "autoAddIfNeeded": true,
-      "id": "c16cd5ff-195f-395d-6ae5-c985c18da404"
+      "id": "d28d19fe-b202-5001-6caf-6b5477264c35"
     },
     "supportedInterfaceOrientations": "UIInterfaceOrientationPortrait | UIInterfaceOrientationPortraitUpsideDown",
     "sideMenu": {
@@ -18,7 +18,7 @@
       "parallaxEnabled": false,
       "leftMenuScreenId": "",
       "rightMenuScreenId": "",
-      "id": "0ba0054d-8249-ce24-d5f2-7ba79ed9bb8d",
+      "id": "8a38e36f-b835-47c5-5b70-a1279083be02",
       "backIndicatorNoText": false
     }
   },
@@ -29,10 +29,10 @@
       {
         "type": "view",
         "frame": {
-          "x": 45,
-          "y": 48,
-          "width": 172,
-          "height": 94
+          "x": 0,
+          "y": 70,
+          "width": 320,
+          "height": 86
         },
         "contentMode": "UIViewContentModeScaleToFill",
         "tag": 0,
@@ -56,9 +56,9 @@
           {
             "type": "label",
             "frame": {
-              "x": 47,
+              "x": 0,
               "y": 32,
-              "width": 87,
+              "width": 320,
               "height": 30
             },
             "contentMode": "UIViewContentModeScaleToFill",
