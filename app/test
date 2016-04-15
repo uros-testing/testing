@@ -4,7 +4,7 @@
     "title": "Title",
     "navigationController": {
       "autoAddIfNeeded": true,
-      "id": "a8df809d-2220-f2fe-9d1d-6a43dda07d83"
+      "id": "c16cd5ff-195f-395d-6ae5-c985c18da404"
     },
     "supportedInterfaceOrientations": "UIInterfaceOrientationPortrait | UIInterfaceOrientationPortraitUpsideDown",
     "sideMenu": {
@@ -18,7 +18,7 @@
       "parallaxEnabled": false,
       "leftMenuScreenId": "",
       "rightMenuScreenId": "",
-      "id": "50ae2766-9439-b913-541a-4cf6da31c6bf",
+      "id": "0ba0054d-8249-ce24-d5f2-7ba79ed9bb8d",
       "backIndicatorNoText": false
     }
   },
@@ -29,10 +29,10 @@
       {
         "type": "view",
         "frame": {
-          "x": 74,
-          "y": 84,
-          "width": 177,
-          "height": 193
+          "x": 45,
+          "y": 48,
+          "width": 172,
+          "height": 94
         },
         "contentMode": "UIViewContentModeScaleToFill",
         "tag": 0,
@@ -44,14 +44,60 @@
         "userInteractionEnabled": true,
         "multipleTouchEnabled": false,
         "alpha": 1,
-        "backgroundColor": "#808080",
+        "backgroundColor": "#e3a7e2ff",
         "tintColor": "#007AFFFF",
         "accessibilityLabel": "",
         "accessibilityHint": "",
         "accessibilityTraits": "",
         "borderColor": "#00000000",
         "borderWidth": 0,
-        "id": "content_wrapper"
+        "id": "content_wrapper",
+        "subviews": [
+          {
+            "type": "label",
+            "frame": {
+              "x": 47,
+              "y": 32,
+              "width": 87,
+              "height": 30
+            },
+            "contentMode": "UIViewContentModeScaleToFill",
+            "tag": 0,
+            "opaque": true,
+            "hidden": false,
+            "clipsToBounds": false,
+            "isAccessibilityElement": false,
+            "clearsContextBeforeDrawing": true,
+            "userInteractionEnabled": true,
+            "multipleTouchEnabled": false,
+            "alpha": 1,
+            "backgroundColor": "#ffffffff",
+            "tintColor": "#007AFFFF",
+            "accessibilityLabel": "",
+            "accessibilityHint": "",
+            "accessibilityTraits": "",
+            "borderColor": "#00000000",
+            "borderWidth": 0,
+            "textColor": "#ffffffff",
+            "textAlignment": "NSTextAlignmentCenter",
+            "numberOfLines": 1,
+            "enabled": true,
+            "highlighted": false,
+            "adjustsFontSizeToFitWidth": false,
+            "baselineAdjustment": "UIBaselineAdjustmentAlignBaselines",
+            "lineBreakMode": "NSLineBreakByTruncatingTail",
+            "minimumScaleFactor": 0,
+            "highlightedTextColor": "#000000ff",
+            "shadowColor": "#00000000",
+            "shadowOffset": {
+              "width": 0,
+              "height": -1
+            },
+            "text": "Label",
+            "font": "System, 17",
+            "id": "83d46c02-b665-c2a5-091d-fe68d0e8c492"
+          }
+        ]
       }
     ]
   }
