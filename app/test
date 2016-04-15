@@ -1,27 +1,58 @@
 {
-   "id": "test",
-   "controller": {
-     "supportedInterfaceOrientations": "UIInterfaceOrientationPortrait | UIInterfaceOrientationPortraitUpsideDown",
-     "title": "Title",
-     "navigationController": {
-       "autoAddIfNeeded": true
-     }
-   },
-   "view": {
-     "id": "root_view",
-     "type": "view",
-     "subviews": [
-       {
-         "id": "content_wrapper",
-         "type": "view",
-         "backgroundColor": "#808080",
-         "frame": {
-           "x": 50,
-           "y": 50,
-           "width": 50,
-           "height": 50
-         }
-       }
-     ]
-   }
+  "id": "test",
+  "controller": {
+    "title": "Title",
+    "navigationController": {
+      "autoAddIfNeeded": true,
+      "id": "a8df809d-2220-f2fe-9d1d-6a43dda07d83"
+    },
+    "supportedInterfaceOrientations": "UIInterfaceOrientationPortrait | UIInterfaceOrientationPortraitUpsideDown",
+    "sideMenu": {
+      "enable": false,
+      "backgroundImage": "",
+      "menuPreferredStatusBarStyle": "",
+      "panGestureEnabled": false,
+      "panFromEdge": false,
+      "contentViewShadowEnabled": false,
+      "contentViewShadowColor": "",
+      "parallaxEnabled": false,
+      "leftMenuScreenId": "",
+      "rightMenuScreenId": "",
+      "id": "50ae2766-9439-b913-541a-4cf6da31c6bf",
+      "backIndicatorNoText": false
+    }
+  },
+  "view": {
+    "id": "root_view",
+    "type": "view",
+    "subviews": [
+      {
+        "type": "view",
+        "frame": {
+          "x": 74,
+          "y": 84,
+          "width": 177,
+          "height": 193
+        },
+        "contentMode": "UIViewContentModeScaleToFill",
+        "tag": 0,
+        "opaque": true,
+        "hidden": false,
+        "clipsToBounds": false,
+        "isAccessibilityElement": false,
+        "clearsContextBeforeDrawing": true,
+        "userInteractionEnabled": true,
+        "multipleTouchEnabled": false,
+        "alpha": 1,
+        "backgroundColor": "#808080",
+        "tintColor": "#007AFFFF",
+        "accessibilityLabel": "",
+        "accessibilityHint": "",
+        "accessibilityTraits": "",
+        "borderColor": "#00000000",
+        "borderWidth": 0,
+        "id": "content_wrapper"
+      }
+    ]
+  }
 }
