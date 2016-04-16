@@ -1,4 +1,4 @@
-var test_method = function (param) {
+var test_method5 = function (param) {
     if(param){
         console.log('param='+param);
     } 
