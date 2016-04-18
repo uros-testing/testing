@@ -1,5 +1,0 @@
-var test_method = function (param) {
-    if (param) {
-        console.log('param='+param);
-    } 
-};
