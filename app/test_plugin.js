@@ -2,7 +2,7 @@ IR.plugin({
      "viewDidLoad" : function () {
 
      },
-     "viewWillAppear" : function (animated) {
+     "viewWillAppear" : function (animated ) {
         // test 2
      }
 });
