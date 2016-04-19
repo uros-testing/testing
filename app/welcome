@@ -1,0 +1,27 @@
+{
+   "id": "welcome",
+   "controller": {
+     "supportedInterfaceOrientations": "UIInterfaceOrientationPortrait | UIInterfaceOrientationPortraitUpsideDown",
+     "title": "Title",
+     "navigationController": {
+       "autoAddIfNeeded": true
+     }
+   },
+   "view": {
+     "id": "root_view",
+     "type": "view",
+     "subviews": [
+       {
+         "id": "content_wrapper",
+         "type": "view",
+         "backgroundColor": "#808080",
+         "frame": {
+           "x": 50,
+           "y": 50,
+           "width": 50,
+           "height": 50
+         }
+       }
+     ]
+   }
+}
