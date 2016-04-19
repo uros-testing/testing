@@ -31,7 +31,8 @@
               "height": 30
             },
             "backgroundColor": "#00ff00",
-            "text": "Label",
+            "textColor": "#0000ff",
+            "text": "Aa",
             "font": "System, 17",
             "id": "83d46c02-b665-c2a5-091d-fe68d0e8c492"
           }
