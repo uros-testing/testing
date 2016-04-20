@@ -46,7 +46,7 @@
               "height": 30
             },
             "backgroundColor_": "#ffffffff",
-            "textColor": "#ffffffff",
+            "textColor": "#000000",
             "text": "Label",
             "font": "System, 17",
             "id": "83d46c02-b665-c2a5-091d-fe68d0e8c492"
