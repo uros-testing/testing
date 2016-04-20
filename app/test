@@ -46,7 +46,7 @@
               "width": 320,
               "height": 30
             },
-            "backgroundColor": "#ffffff00",
+            "backgroundColor": "#ffffff",
             "textColor": "#000000",
             "text": "Label",
             "font": "System, 17"
