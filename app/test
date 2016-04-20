@@ -27,6 +27,7 @@
     "type": "view",
     "subviews": [
       {
+        "id": "content_wrapper",
         "type": "view",
         "frame": {
           "x": 0,
@@ -35,9 +36,9 @@
           "height": 86
         },
         "backgroundColor": "#e3a7e2ff",
-        "id": "content_wrapper",
         "subviews": [
           {
+            "id": "83d46c02-b665-c2a5-091d-fe68d0e8c492",
             "type": "label",
             "frame": {
               "x": 0,
@@ -48,8 +49,7 @@
             "backgroundColor_": "#ffffffff",
             "textColor": "#000000",
             "text": "Label",
-            "font": "System, 17",
-            "id": "83d46c02-b665-c2a5-091d-fe68d0e8c492"
+            "font": "System, 17"
           }
         ]
       }
