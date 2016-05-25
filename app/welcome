@@ -1,29 +1,31 @@
 {
-   "id": "welcome",
-   "controller": {
-     "supportedInterfaceOrientations": "UIInterfaceOrientationPortrait | UIInterfaceOrientationPortraitUpsideDown",
-     "title": "Title",
-     "navigationController": {
-       "autoAddIfNeeded": true
-     }
-   },
-   "view": {
-     "id": "root_view",
-     "type": "view",
-     "subviews": [
-       {
-         "id": "content_wrapper",
-         "type": "view",
-         "backgroundColor": "#ff0000",
-         "frame": {
-           "x": 50,
-           "y": 50,
-           "width": 50,
-           "height": 50
-         },
-         "subviews": [
+  "type": "main",
+  "id": "welcome",
+  "controller": {
+    "supportedInterfaceOrientations": "UIInterfaceOrientationPortrait | UIInterfaceOrientationPortraitUpsideDown",
+    "title": "Title",
+    "navigationController": {
+      "autoAddIfNeeded": true
+    }
+  },
+  "view": {
+    "type": "view",
+    "id": "root_view",
+    "subviews": [
+      {
+        "type": "view",
+        "id": "content_wrapper",
+        "frame": {
+          "x": 50,
+          "y": 50,
+          "width": 500,
+          "height": 50
+        },
+        "backgroundColor": "#ff0000",
+        "subviews": [
           {
             "type": "label",
+            "id": "83d46c02-b665-c2a5-091d-fe68d0e8c492",
             "frame": {
               "x": 5,
               "y": 5,
@@ -31,13 +33,13 @@
               "height": 60
             },
             "backgroundColor": "#00ff00",
-            "textColor": "#0000ff",
+            "borderWidth": 2,
             "text": "Aa",
-            "font": "System, 17",
-            "id": "83d46c02-b665-c2a5-091d-fe68d0e8c492"
+            "textColor": "#0000ff",
+            "font": "System, 17"
           }
         ]
-       }
-     ]
-   }
+      }
+    ]
+  }
 }
