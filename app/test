@@ -1,4 +1,5 @@
 {
+  "type": "main",
   "id": "test",
   "controller": {
     "title": "Title",
@@ -23,12 +24,12 @@
     }
   },
   "view": {
-    "id": "root_view",
     "type": "view",
+    "id": "root_view",
     "subviews": [
       {
-        "id": "content_wrapper",
         "type": "view",
+        "id": "content_wrapper",
         "frame": {
           "x": 0,
           "y": 70,
@@ -38,8 +39,8 @@
         "backgroundColor": "#ff00ffff",
         "subviews": [
           {
-            "id": "83d46c02-b665-c2a5-091d-fe68d0e8c492",
             "type": "label",
+            "id": "83d46c02-b665-c2a5-091d-fe68d0e8c492",
             "frame": {
               "x": 0,
               "y": 32,
@@ -47,8 +48,6 @@
               "height": 30
             },
             "backgroundColor": "#ffffff",
-            "textColor": "#000000",
-            "text": "Label",
             "font": "System, 17"
           }
         ]
