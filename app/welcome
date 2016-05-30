@@ -39,7 +39,7 @@
             "font": "System, 17"
           },
           {
-             "type": "view",
+            "type": "view",
             "id": "view_123",
             "frame": {
               "x": 50,
