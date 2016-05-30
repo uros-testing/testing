@@ -37,6 +37,17 @@
             "text": "Aa",
             "textColor": "#0000ff",
             "font": "System, 17"
+          },
+          {
+             "type": "view",
+            "id": "view_123",
+            "frame": {
+              "x": 50,
+              "y": 50,
+              "width": 500,
+              "height": 50
+            },
+            "backgroundColor": "#ff0000",
           }
         ]
       }
