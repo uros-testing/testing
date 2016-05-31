@@ -34,10 +34,25 @@
             },
             "backgroundColor": "#00ff00",
             "borderWidth": 2,
-            "text": "Aa", 
+            "text": "Aa",
             "textColor": "#0000ff",
             "font": "System, 17"
-          } 
+          },
+          {
+            "type": "label",
+            "id": "83d46c02-b665-c2a5-091d-fe68d0e8c493",
+            "frame": {
+              "x": 25,
+              "y": 5,
+              "width": 45,
+              "height": 60
+            },
+            "backgroundColor": "#00ff00",
+            "borderWidth": 2,
+            "text": "Aa",
+            "textColor": "#0000ff",
+            "font": "System, 17"
+          }
         ]
       }
     ]
