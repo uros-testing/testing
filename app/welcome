@@ -27,7 +27,7 @@
             "type": "label",
             "id": "83d46c02-b665-c2a5-091d-fe68d0e8c492",
             "frame": {
-              "x": 25,
+              "x": 5,
               "y": 5,
               "width": 45,
               "height": 60
@@ -42,7 +42,7 @@
             "type": "label",
             "id": "83d46c02-b665-c2a5-091d-fe68d0e8c493",
             "frame": {
-              "x": 25,
+              "x": 55,
               "y": 5,
               "width": 45,
               "height": 60
