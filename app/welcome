@@ -57,12 +57,12 @@
             "type": "view",
             "id": "content_wrapper_123",
             "frame": {
-              "x": 50,
-              "y": 50,
+              "x": 80,
+              "y": 5,
               "width": 500,
               "height": 50
             },
-            "backgroundColor": "#ff0000"
+            "backgroundColor": "#84a9ff7d"
           }
         ]
       }
