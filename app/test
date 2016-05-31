@@ -36,7 +36,7 @@
           "width": 320,
           "height": 86
         },
-        "backgroundColor": "#e000e0ff",
+        "backgroundColor": "#999999ff",
         "subviews": [
           {
             "type": "label",
