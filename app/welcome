@@ -55,7 +55,7 @@
           },
           {
             "type": "view",
-            "id": "content_wrapper",
+            "id": "content_wrapper_123",
             "frame": {
               "x": 50,
               "y": 50,
